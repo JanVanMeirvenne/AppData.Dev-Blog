@@ -60,4 +60,14 @@ author:
   name     : "Jan Van Meirvenne"
   avatar   : "/assets/images/avatar.png"
   bio      : "Evangelizing cloud-based app and data practices and patterns, one prototype at a time"
-  location : "Belgium" 
+  location : "Belgium"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/JanVanMeirvenne"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/JanVanMeirvenne"
+
+paginate: 10 
+paginate_path: /recent/page:num/
